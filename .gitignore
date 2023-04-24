@@ -1,0 +1,12 @@
+/config_instance/***
+/logs*
+/opensearch-config*
+dev_opensearch_*
+/some_config_template
+/config_instance-*
+/config_instance__*
+internal_users.yml
+.env
+/certs/***
+**/.DS_STORE
+
